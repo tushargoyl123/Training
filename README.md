@@ -3,6 +3,7 @@
 Welcome to the PCAT + Java assignments repository! This repository contains assignments related to PCAT (Programming Competency Assessment Tool) and Java programming language.
 
 **Assignments Included:**
+
 **1. PCAT Assignments:**
 These assignments are designed to assess your programming competency in various areas such as problem-solving, algorithms, data structures, and more. Each assignment comes with a set of problems or tasks to be completed.
 
