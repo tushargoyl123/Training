@@ -8,7 +8,7 @@ Welcome to the PCAT + Java assignments repository! This repository contains assi
 
 **1. PCAT Assignments:**
 
-These assignments are designed to assess your programming competency in various areas such as problem-solving, algorithms, data structures, and more. Each assignment comes with a set of problems or tasks to be completed.
+These assignments are designed to assess my programming competency in various areas such as problem-solving, algorithms, data structures, and more. Each assignment comes with a set of problems or tasks.
 
 **2. Java Assignments:**
 
