@@ -25,9 +25,9 @@ Each assignment is organized into its own folder within the repository.
 
 Within each assignment folder, you will find:
 
-Assignment instructions or problem statements.
+  - Assignment instructions or problem statements.
 
-Solutions, Flow Charts, Pseudo code or completed code.
+  - Solutions, Flow Charts, Pseudo code or completed code.
 
 
 **Getting Started:**
