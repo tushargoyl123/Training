@@ -27,7 +27,7 @@ Within each assignment folder, you will find:
 
 Assignment instructions or problem statements.
 
-Solutions or completed code.
+Solutions, Flow Charts, Pseudo code or completed code.
 
 
 **Getting Started:**
